@@ -68,7 +68,7 @@ class UpgradePlanViewBody extends StatelessWidget {
                     onTap: () => context.read<UpgradePlanCubit>().selectPlan(1),
                   ),
 
-                  SizedBox(height: context.height / 14),
+                  SizedBox(height: 15),
                   CustomButton(text: "Upgrade Now", onPressed: () {}),
                   SizedBox(height: context.height / 12),
                 ],
