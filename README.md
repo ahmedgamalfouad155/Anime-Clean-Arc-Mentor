@@ -3,6 +3,12 @@
 A simple Flutter app built using **Clean Architecture** as the main approach for structuring the project.  
 The app showcases how to apply Clean Architecture principles even with **local dummy data** (without APIs or backend).
 
+
+---
+## 📽️ Demo
+### 📱 Mobile Version:
+[🔗 Click here to watch the demo video](https://drive.google.com/file/d/1KEBbc7r-Fw4HLGUd1N7ehK-Kn3GSz_yf/view?usp=sharing)
+
 ---
 
 ## ✨ Features
